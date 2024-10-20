@@ -136,18 +136,17 @@ We welcome contributions to DesignDeck! To contribute:
 4. Commit and push your changes 🚀
 5. Create a pull request 🔄
 
-### Note: Use npm run build and check for conflicts before submitting a pull request, as conflicts can delay merging pull requests.
+## Contributing People List
+
+> Contributions are welcome!
+
+Specially thanks ❤️ for contributors bellow:
+
+<a href="https://github.com/jahnvisahni31/github-readme-profile/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jahnvisahni31/DesignDeck" />
+</a>
 
 ## Contributors
-
-- **Devesh Kumar Arya** - [@aryadevesh78](https://github.com/aryadevesh78)
-- **Jahnvi Sahni** - [@121384173+jahnvisahni31](https://github.com/121384173+jahnvisahni31)
-- **MIGHTY1o1** - [@shubhagarwalcse](https://github.com/shubhagarwalcse)
-- **Priyanshu Verma** - [@priyanshuverma](https://github.com/priyanshuverma)
-- **Sriram Bharadwaj** - [@sriram9217](https://github.com/sriram9217)
-- **abhi** - [@abhi](https://github.com/abhi)
-- **jahnvisahni31** - [@jahnvisahni088](https://github.com/jahnvisahni088)
-- **unknown91tech** - [@116144227+unknown91tech](https://github.com/116144227+unknown91tech)
 
 ## Contact 📬
 
