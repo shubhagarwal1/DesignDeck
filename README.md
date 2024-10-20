@@ -140,27 +140,15 @@ We welcome contributions to DesignDeck! To contribute:
 
 ## Contributors
 
-A heartfelt thank you to the following individuals for their valuable contributions to this project. Your support and dedication are greatly appreciated:
+## Contributing People List
 
-<a href="https://github.com/jahnvisahni31/DesignDeck/graphs/contributors">
+> Contributions are welcome!
+
+Specially thanks ❤️ for contributors bellow:
+
+<a href="https://github.com/jahnvisahni31/github-readme-profile/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jahnvisahni31/DesignDeck" />
 </a>
-
-<br>
-
-## Stargazers
-
-<div align='center'>
-
-[![Stargazers repo roster for @jahnvisahni31/DesignDeck](https://reporoster.com/stars/jahnvisahni31/DesignDeck)](https://github.com/jahnvisahni31/DesignDeck/stargazers)
-
-</div>
-
-## Forkers
-
-<div align='center'>
-
-[![Forkers repo roster for @jahnvisahni31/DesignDeck](https://reporoster.com/forks/jahnvisahni31/DesignDeck)](https://github.com/jahnvisahni31/DesignDeck/network/members)
 
 ## Contact 📬
 
