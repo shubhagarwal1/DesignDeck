@@ -148,14 +148,11 @@ Specially thanks ❤️ for contributors bellow:
 
 ## Contributors
 
-## Contact 📬
-
-For any questions or support, please reach out to [Jahnvisahni98@gmail.com](mailto:jahnvisahni98@gmail.com).
-<img width="622" alt="image" src="https://github.com/user-attachments/assets/5b950dc1-40ad-4f54-904c-55499202233b">
-
-</div>
-<div align="center">
-    <a href="#top">
-        <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
-    </a>
-</div>
+- **Devesh Kumar Arya** - [@aryadevesh78](https://github.com/aryadevesh78)
+- **Jahnvi Sahni** - [@121384173+jahnvisahni31](https://github.com/121384173+jahnvisahni31)
+- **MIGHTY1o1** - [@shubhagarwalcse](https://github.com/shubhagarwalcse)
+- **Priyanshu Verma** - [@priyanshuverma](https://github.com/priyanshuverma)
+- **Sriram Bharadwaj** - [@sriram9217](https://github.com/sriram9217)
+- **abhi** - [@abhi](https://github.com/abhi)
+- **jahnvisahni31** - [@jahnvisahni088](https://github.com/jahnvisahni088)
+- **unknown91tech** - [@116144227+unknown91tech](https://github.com/116144227+unknown91tech)
