@@ -152,12 +152,33 @@ Specially thanks ❤️ for contributors bellow:
 
 ## Contributors
 
+- **Anirban Ghosh**
+- **Bhavana**
 - **Devesh Kumar Arya**
+- **Eshal Shaikh**
+- **J Shiva Shankar**
 - **Jahnvi Sahni**
 - **Jahnvi sahni**
 - **MIGHTY1o1**
+- **Nayan Mahera**
 - **Priyanshu Verma**
+- **Priyesh Kumar Saha**
+- **Rizvi-Faiz**
+- **Shariq**
 - **Sriram Bharadwaj**
+- **YasirKhan231**
+- **Zaki2409**
+- **Zubaida0113**
 - **abhi**
+- **ashu273k**
+- **biswa**
+- **haseebzaki-07**
+- **hemant@9808**
+- **imran pasha**
 - **jahnvisahni31**
+- **mvram200**
+- **saumya yadav**
+- **sezallagwal**
+- **smog-root**
+- **soham0028**
 - **unknown91tech**
