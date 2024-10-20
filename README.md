@@ -1,4 +1,3 @@
-
 # Welcome To DesignDeck:
 
 DesignDeck is a web-based collaborative design tool similar to Figma, built using Next.js, TypeScript, Tailwind CSS, and LiveBlocks API, Fabric.js. With Designdeck, teams can seamlessly collaborate on designing interfaces in real-time with a plethora of features.
@@ -29,7 +28,6 @@ DesignDeck is a web-based collaborative design tool similar to Figma, built usin
 
 # Table of Contents:
 
-
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -38,41 +36,39 @@ DesignDeck is a web-based collaborative design tool similar to Figma, built usin
 - [Contribution](#contributing)
 
 # Demo
+
 You can see a live demo of the portfolio website at [https://design-deck.vercel.app/]
 
 # Features
 
 ![image](https://github.com/user-attachments/assets/e7ba372a-ae78-4a7e-a531-be0e289d4178)
 
-
-| Feature               | Description                                                                                               |
-|----------------------|-----------------------------------------------------------------------------------------------------------|
+| Feature                | Description                                                                                             |
+| ---------------------- | ------------------------------------------------------------------------------------------------------- |
 | **Live Collaboration** | Multiple users can simultaneously work on the canvas with live updates of cursor positions and changes. |
 | **Shape Manipulation** | Add, modify, and delete shapes. Customize properties like width, height, stroke color, and more.        |
-| **Free Drawing**      | Utilize the pencil feature to free draw on the canvas.                                                  |
-| **Text Addition**     | Add text to designs and adjust font size, weight, and style.                                            |
-| **Copy and Paste**    | Easily duplicate elements on the canvas.                                                                 |
-| **Comment Threads**   | Add comments to specific elements and reply to them.                                                    |
-| **Real-Time Updates** | Instant updates for all users in real-time.                                                              |
-| **Undo/Redo**        | Easily undo or redo actions using keyboard shortcuts (Ctrl+Z and Ctrl+Y).                               |
-| **Chat Bubbles**     | Quick communication among team members through chat bubbles.                                              |
-| **Reactions**        | Express reactions to designs using keyboard shortcuts.                                                   |
-| **Export to PDF**    | Export selected elements on the canvas to PDF format.                                                   |
-
+| **Free Drawing**       | Utilize the pencil feature to free draw on the canvas.                                                  |
+| **Text Addition**      | Add text to designs and adjust font size, weight, and style.                                            |
+| **Copy and Paste**     | Easily duplicate elements on the canvas.                                                                |
+| **Comment Threads**    | Add comments to specific elements and reply to them.                                                    |
+| **Real-Time Updates**  | Instant updates for all users in real-time.                                                             |
+| **Undo/Redo**          | Easily undo or redo actions using keyboard shortcuts (Ctrl+Z and Ctrl+Y).                               |
+| **Chat Bubbles**       | Quick communication among team members through chat bubbles.                                            |
+| **Reactions**          | Express reactions to designs using keyboard shortcuts.                                                  |
+| **Export to PDF**      | Export selected elements on the canvas to PDF format.                                                   |
 
 # Technologies Used:
 
 ![image](https://github.com/user-attachments/assets/117c3633-7d45-46a4-ad85-47732777acfb)
 
-
-| Technology        | Description                                                        |
-|-------------------|--------------------------------------------------------------------|
-| **Next.js**       | Server-side rendering and routing.                                 |
-| **TypeScript**    | Adds static types to JavaScript.                                  |
-| **Tailwind CSS**  | Utility-first CSS framework for styling.                          |
-| **LiveBlocks API**| Real-time collaboration API for syncing data across clients.      |
-| **Fabric.js**     | HTML5 canvas library for manipulating graphics and interactive content. |
-| **Shadcn**        | Component library for UI elements.        
+| Technology         | Description                                                             |
+| ------------------ | ----------------------------------------------------------------------- |
+| **Next.js**        | Server-side rendering and routing.                                      |
+| **TypeScript**     | Adds static types to JavaScript.                                        |
+| **Tailwind CSS**   | Utility-first CSS framework for styling.                                |
+| **LiveBlocks API** | Real-time collaboration API for syncing data across clients.            |
+| **Fabric.js**      | HTML5 canvas library for manipulating graphics and interactive content. |
+| **Shadcn**         | Component library for UI elements.                                      |
 
 # Environment Variables
 
@@ -128,10 +124,9 @@ You can also run DesignDeck locally using Docker by following these steps:
 docker-compose up --build
 ```
 
-This command builds the image and starts the container. You can then access the application at `http://localhost:3000`. 
+This command builds the image and starts the container. You can then access the application at `http://localhost:3000`.
 
-
-# CONTRIBUTING 
+# CONTRIBUTING
 
 We welcome contributions to DesignDeck! To contribute:
 
@@ -162,6 +157,7 @@ A heartfelt thank you to the following individuals for their valuable contributi
 </div>
 
 ## Forkers
+
 <div align='center'>
 
 [![Forkers repo roster for @jahnvisahni31/DesignDeck](https://reporoster.com/forks/jahnvisahni31/DesignDeck)](https://github.com/jahnvisahni31/DesignDeck/network/members)
